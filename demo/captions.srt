@@ -1,0 +1,47 @@
+1
+00:00:00,000 --> 00:00:06,300
+When a storefront incident follows a deploy, the tempting story is that the deploy caused it.
+
+2
+00:00:06,300 --> 00:00:14,000
+But timing is not proof. This evidence-first investigator was built with AI assistance to make those assumptions visible.
+
+3
+00:00:20,000 --> 00:00:26,500
+The fictional case includes checkout metrics, deployment records, gateway logs, and explicit notes about missing coverage.
+
+4
+00:00:26,500 --> 00:00:32,500
+These are invented records, not real customer data.
+
+5
+00:00:40,000 --> 00:00:46,500
+Here is the offline investigation. It links observations to the source records and separates what the records say from what remains a hypothesis.
+
+6
+00:00:46,500 --> 00:00:54,000
+The local run does not require a model or a network connection.
+
+7
+00:01:00,000 --> 00:01:08,000
+In this scenario, the data show a sharp increase in failed checkout flows and linked payment gateway responses for selected requests.
+
+8
+00:01:08,000 --> 00:01:16,000
+Those examples support a limited mechanism, not a proven initiating root cause.
+
+9
+00:01:20,000 --> 00:01:27,000
+The deployment and the later retry change are both worth checking. But the investigator does not promote either correlation into a proven cause.
+
+10
+00:01:27,000 --> 00:01:34,500
+When essential telemetry is missing, it says insufficient evidence.
+
+11
+00:01:40,000 --> 00:01:48,500
+The tests cover missing evidence, misleading correlations, and instructions hidden inside a log.
+
+12
+00:01:48,500 --> 00:01:58,500
+Optional model mode has no tools, and its output remains unverified. This is a starting point for human investigation, not an automatic incident commander.

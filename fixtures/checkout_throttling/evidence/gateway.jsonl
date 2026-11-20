@@ -1,0 +1,4 @@
+{"id":"GW-01","kind":"gateway_event","event_time":"2025-04-17T14:03:09.300Z","service":"payment-gateway","trace_id":"trace-fict-1001","operation":"authorize","upstream":"MarblePay","upstream_http_status":429,"result":"upstream_rejected"}
+{"id":"GW-02","kind":"gateway_event","event_time":"2025-04-17T14:03:35.390Z","service":"payment-gateway","trace_id":"trace-fict-1002","operation":"authorize","upstream":"MarblePay","upstream_http_status":429,"result":"upstream_rejected"}
+{"id":"GW-03","kind":"gateway_event","event_time":"2025-04-17T14:04:10.180Z","service":"payment-gateway","trace_id":"trace-fict-1003","operation":"authorize","upstream":"MarblePay","upstream_http_status":429,"result":"upstream_rejected"}
+{"id":"GW-04","kind":"gateway_event","event_time":"2025-04-17T14:11:28.660Z","service":"payment-gateway","trace_id":"trace-fict-1091","operation":"authorize","upstream":"MarblePay","upstream_http_status":200,"result":"authorized"}

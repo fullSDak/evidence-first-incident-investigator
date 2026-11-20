@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "records": {
+    "MET-01": {
+      "path": "evidence/metrics.jsonl",
+      "line": 1
+    },
+    "MET-02": {
+      "path": "evidence/metrics.jsonl",
+      "line": 2
+    },
+    "MET-03": {
+      "path": "evidence/metrics.jsonl",
+      "line": 3
+    },
+    "MET-04": {
+      "path": "evidence/metrics.jsonl",
+      "line": 4
+    },
+    "MET-05": {
+      "path": "evidence/metrics.jsonl",
+      "line": 5
+    },
+    "DEP-01": {
+      "path": "evidence/deployments.jsonl",
+      "line": 1
+    },
+    "CHK-01": {
+      "path": "evidence/checkout.jsonl",
+      "line": 1
+    },
+    "CHK-02": {
+      "path": "evidence/checkout.jsonl",
+      "line": 2
+    },
+    "CHK-03": {
+      "path": "evidence/checkout.jsonl",
+      "line": 3
+    },
+    "CHK-04": {
+      "path": "evidence/checkout.jsonl",
+      "line": 4
+    },
+    "CHK-05": {
+      "path": "evidence/checkout.jsonl",
+      "line": 5
+    },
+    "GW-01": {
+      "path": "evidence/gateway.jsonl",
+      "line": 1
+    },
+    "GW-02": {
+      "path": "evidence/gateway.jsonl",
+      "line": 2
+    },
+    "GW-03": {
+      "path": "evidence/gateway.jsonl",
+      "line": 3
+    },
+    "GW-04": {
+      "path": "evidence/gateway.jsonl",
+      "line": 4
+    },
+    "ACT-01": {
+      "path": "evidence/actions.jsonl",
+      "line": 1
+    },
+    "COV-01": {
+      "path": "evidence/coverage.jsonl",
+      "line": 1
+    },
+    "COV-02": {
+      "path": "evidence/coverage.jsonl",
+      "line": 2
+    }
+  }
+}

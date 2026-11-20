@@ -1,0 +1,1 @@
+{"id":"MISS-DEP-01","kind":"deployment","event_time":"2025-04-17T15:20:15Z","deployment_id":"rel-storefront-2025-04-17-2","service":"storefront-web","version":"web-5.8.1","status":"succeeded","change_scope":["static banner asset"],"description":"Release manifest reports an updated banner asset."}

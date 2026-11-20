@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "records": {
+    "MISS-MET-01": {
+      "path": "evidence/metrics.jsonl",
+      "line": 1
+    },
+    "MISS-MET-02": {
+      "path": "evidence/metrics.jsonl",
+      "line": 2
+    },
+    "MISS-DEP-01": {
+      "path": "evidence/deployments.jsonl",
+      "line": 1
+    },
+    "MISS-COV-01": {
+      "path": "evidence/coverage.jsonl",
+      "line": 1
+    },
+    "MISS-COV-02": {
+      "path": "evidence/coverage.jsonl",
+      "line": 2
+    },
+    "MISS-COV-03": {
+      "path": "evidence/coverage.jsonl",
+      "line": 3
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "incident_id": "INC-2025-0417-001",
+  "store": "HarborCart",
+  "title": "Checkout failures after storefront release",
+  "window_start": "2025-04-17T14:03:00Z",
+  "window_end": "2025-04-17T14:12:00Z",
+  "questions": [
+    {
+      "id": "deployment_caused_incident",
+      "question": "Did the storefront deployment cause the checkout incident?"
+    },
+    {
+      "id": "gateway_429_contributed",
+      "question": "Did upstream 429 responses contribute to failed checkout requests?"
+    },
+    {
+      "id": "retry_change_caused_recovery",
+      "question": "Did the retry-setting change cause checkout recovery?"
+    }
+  ]
+}

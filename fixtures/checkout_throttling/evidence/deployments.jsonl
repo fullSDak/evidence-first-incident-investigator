@@ -1,0 +1,1 @@
+{"id":"DEP-01","kind":"deployment","event_time":"2025-04-17T14:02:20Z","deployment_id":"rel-storefront-2025-04-17-1","service":"storefront-web","version":"web-5.8.0","status":"succeeded","change_scope":["product-card CSS","static image assets"],"description":"Release manifest reports static UI asset changes; user interactions could still change traffic patterns."}

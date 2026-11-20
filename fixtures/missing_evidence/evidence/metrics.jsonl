@@ -1,0 +1,2 @@
+{"id":"MISS-MET-01","kind":"metric_window","window_start":"2025-04-17T15:19:00Z","window_end":"2025-04-17T15:20:00Z","service":"checkout-api","total_checkout_flows":60,"successful_checkout_flows":59,"failed_checkout_flows":1,"flows_with_gateway_429":null}
+{"id":"MISS-MET-02","kind":"metric_window","window_start":"2025-04-17T15:21:00Z","window_end":"2025-04-17T15:22:00Z","service":"checkout-api","total_checkout_flows":60,"successful_checkout_flows":30,"failed_checkout_flows":30,"flows_with_gateway_429":null}

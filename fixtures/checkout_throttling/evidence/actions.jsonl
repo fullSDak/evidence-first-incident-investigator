@@ -1,0 +1,1 @@
+{"id":"ACT-01","kind":"operator_action","event_time":"2025-04-17T14:08:00Z","service":"checkout-api","action":"set_retry_limit","setting":"payment_retry_max_attempts","before":3,"after":1,"actor":"oncall-fictional-7"}

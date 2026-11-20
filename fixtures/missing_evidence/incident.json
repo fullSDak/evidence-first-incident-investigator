@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "incident_id": "INC-2025-0417-002",
+  "store": "HarborCart",
+  "title": "Checkout failure increase with limited evidence",
+  "window_start": "2025-04-17T15:21:00Z",
+  "window_end": "2025-04-17T15:24:00Z",
+  "questions": [
+    {
+      "id": "deployment_caused_incident",
+      "question": "Did the storefront deployment cause the checkout failure increase?"
+    },
+    {
+      "id": "gateway_429_contributed",
+      "question": "Did upstream 429 responses contribute to failed checkout requests?"
+    }
+  ]
+}
